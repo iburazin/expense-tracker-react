@@ -16,7 +16,7 @@ function AddTransaction() {
       amount: +amount
     };
 
-    // when setting text and amount back to empty, amount field no longer takes in decimals??
+   
     setText("");
     setAmount("");
 
